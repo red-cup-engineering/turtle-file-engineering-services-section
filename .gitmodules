@@ -1,0 +1,4 @@
+[submodule "turtle-term-writing-service"]
+	path = services/turtle-term-writing-service
+	url = https://github.com/red-cup-engineering/turtle-term-writing-service.git
+	branch = main
