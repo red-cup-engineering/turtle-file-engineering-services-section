@@ -1,0 +1,26 @@
+{
+  "name": "@red-cup-engineering/turtle-term-writing-service",
+  "version": "0.1.2",
+  "private": false,
+  "type": "module",
+  "description": "Canonical Turtle IRIREF and literal writing actuator recovered from Relating.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/turtle-file-engineering-services-section.git",
+    "directory": "services/turtle-term-writing-service"
+  },
+  "exports": {
+    ".": {
+      "types": "./src/index.mts",
+      "import": "./src/index.mts"
+    }
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
