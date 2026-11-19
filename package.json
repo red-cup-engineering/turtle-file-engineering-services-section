@@ -1,0 +1,16 @@
+{
+  "name": "@red-cup-engineering/turtle-file-engineering-services-section",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Proof-path section for Turtle RDF serialization.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/turtle-file-engineering-services-section.git"
+  },
+  "license": "MIT",
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
+  }
+}
